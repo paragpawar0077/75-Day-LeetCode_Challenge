@@ -42,4 +42,5 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0009-palindrome-number/) | Easy |
+| [0007-reverse-integer](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
