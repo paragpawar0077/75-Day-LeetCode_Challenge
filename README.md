@@ -39,4 +39,12 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0238-product-of-array-except-self/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
