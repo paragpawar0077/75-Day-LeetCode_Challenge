@@ -25,8 +25,17 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0009-palindrome-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0009-palindrome-number/) | Easy |
 | [0007-reverse-integer](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0007-reverse-integer/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
