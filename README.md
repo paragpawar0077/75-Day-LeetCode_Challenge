@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems as part of my **75 Da
 
 ## Language Used
 - Java
+- Python
 
 ## Platform
 Problems are solved on **LeetCode** and automatically pushed here using **LeetHub**.
