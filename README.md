@@ -27,6 +27,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [0258-add-digits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0258-add-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
+| [0258-add-digits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0258-add-digits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0238-product-of-array-except-self/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
