@@ -53,6 +53,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
+| [0041-first-missing-positive](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0041-first-missing-positive/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
+| [0041-first-missing-positive](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0041-first-missing-positive/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
