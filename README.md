@@ -50,6 +50,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0238-product-of-array-except-self](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +72,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
