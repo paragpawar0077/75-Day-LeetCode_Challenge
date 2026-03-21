@@ -40,6 +40,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
+| [0125-valid-palindrome](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0125-valid-palindrome/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0125-valid-palindrome](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0125-valid-palindrome/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
