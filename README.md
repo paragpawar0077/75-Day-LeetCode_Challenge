@@ -41,6 +41,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
 | [0125-valid-palindrome](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
 | [0041-first-missing-positive](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0041-first-missing-positive/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
