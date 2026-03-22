@@ -55,6 +55,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
 | [0041-first-missing-positive](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0041-first-missing-positive/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,10 +76,12 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0125-valid-palindrome](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
