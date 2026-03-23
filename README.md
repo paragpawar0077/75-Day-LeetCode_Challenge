@@ -30,6 +30,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [2520-count-the-digits-that-divide-a-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [0258-add-digits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0258-add-digits/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0728-self-dividing-numbers/) | Easy |
+| [2235-add-two-integers](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2235-add-two-integers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
