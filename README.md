@@ -59,6 +59,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0041-first-missing-positive](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0041-first-missing-positive/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0125-valid-palindrome](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
