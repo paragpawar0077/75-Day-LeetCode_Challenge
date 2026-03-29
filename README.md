@@ -91,10 +91,15 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0704-binary-search/) | Easy |
+| [0278-first-bad-version](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0278-first-bad-version/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
