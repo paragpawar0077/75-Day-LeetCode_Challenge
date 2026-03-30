@@ -62,6 +62,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0704-binary-search/) | Easy |
+| [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
 | [0041-first-missing-positive](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0041-first-missing-positive/) | Hard |
+| [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,8 +100,17 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0442-find-all-duplicates-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0278-first-bad-version/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
