@@ -63,10 +63,12 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0977-squares-of-a-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0704-binary-search](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0704-binary-search/) | Easy |
 | [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
+| [0724-find-pivot-index](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0724-find-pivot-index/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0724-find-pivot-index/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
