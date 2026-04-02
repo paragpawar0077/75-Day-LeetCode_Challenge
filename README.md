@@ -44,6 +44,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0125-valid-palindrome](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [0242-valid-anagram](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0242-valid-anagram/) | Easy |
+| [0709-to-lower-case](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0709-to-lower-case/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
