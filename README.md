@@ -45,6 +45,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [0242-valid-anagram](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [0709-to-lower-case](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0709-to-lower-case/) | Easy |
+| [1528-shuffle-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1528-shuffle-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0704-binary-search](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0704-binary-search/) | Easy |
 | [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
 | [0724-find-pivot-index](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0724-find-pivot-index/) | Easy |
+| [1528-shuffle-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1528-shuffle-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
