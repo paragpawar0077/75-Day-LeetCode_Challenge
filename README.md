@@ -46,6 +46,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0242-valid-anagram](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [0709-to-lower-case](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1528-shuffle-string/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
