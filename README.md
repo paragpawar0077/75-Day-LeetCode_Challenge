@@ -38,6 +38,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
+| [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0412-fizz-buzz/) | Easy |
 | [0258-add-digits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0258-add-digits/) | Easy |
+| [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0724-find-pivot-index](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0724-find-pivot-index/) | Easy |
 | [1528-shuffle-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1528-shuffle-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +104,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +137,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
