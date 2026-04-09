@@ -32,6 +32,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0728-self-dividing-numbers](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0728-self-dividing-numbers/) | Easy |
 | [2235-add-two-integers](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2235-add-two-integers/) | Easy |
 | [0013-roman-to-integer](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0013-roman-to-integer/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0287-find-the-duplicate-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
