@@ -34,6 +34,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0013-roman-to-integer](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
+| [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
+| [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +149,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
