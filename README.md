@@ -45,6 +45,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [1486-xor-operation-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
+| [0191-number-of-1-bits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0191-number-of-1-bits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
