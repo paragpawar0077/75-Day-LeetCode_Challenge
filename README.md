@@ -35,6 +35,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [1486-xor-operation-in-an-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
+| [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0242-valid-anagram](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [0013-roman-to-integer](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0977-squares-of-a-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
+| [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
