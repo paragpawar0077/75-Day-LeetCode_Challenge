@@ -63,6 +63,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0013-roman-to-integer](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
+| [0344-reverse-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0344-reverse-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
