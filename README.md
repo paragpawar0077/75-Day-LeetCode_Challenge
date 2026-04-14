@@ -37,6 +37,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0326-power-of-three](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0191-number-of-1-bits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0191-number-of-1-bits/) | Easy |
+| [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +162,5 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
