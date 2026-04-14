@@ -38,6 +38,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0326-power-of-three](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +164,13 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
