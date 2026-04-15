@@ -51,6 +51,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0231-power-of-two](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0191-number-of-1-bits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
+| [0476-number-complement](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0476-number-complement/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
