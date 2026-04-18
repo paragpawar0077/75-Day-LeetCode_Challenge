@@ -52,6 +52,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0191-number-of-1-bits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0476-number-complement](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0476-number-complement/) | Easy |
+| [0078-subsets](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [1528-shuffle-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1528-shuffle-string/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
+| [0078-subsets](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0078-subsets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +178,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
