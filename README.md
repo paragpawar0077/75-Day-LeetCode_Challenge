@@ -95,6 +95,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0078-subsets](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0090-subsets-ii/) | Medium |
+| [0001-two-sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0001-two-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0013-roman-to-integer](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0013-roman-to-integer/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
+| [0001-two-sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0001-two-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
