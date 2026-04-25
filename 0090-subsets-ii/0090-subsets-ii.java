@@ -19,6 +19,7 @@ class Solution {
             backtrack(i+1,num,current,result);
 
             current.remove(current.size()-1);
+            
         }
     }
 }
