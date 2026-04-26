@@ -96,6 +96,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0078-subsets](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0090-subsets-ii/) | Medium |
 | [0001-two-sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0344-reverse-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
