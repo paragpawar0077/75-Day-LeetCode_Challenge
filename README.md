@@ -97,6 +97,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0090-subsets-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0090-subsets-ii/) | Medium |
 | [0001-two-sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [1636-sort-array-by-increasing-frequency](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [0202-happy-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0202-happy-number/) | Easy |
 | [0001-two-sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0242-valid-anagram](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0242-valid-anagram/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
