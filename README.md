@@ -39,6 +39,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0326-power-of-three](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
