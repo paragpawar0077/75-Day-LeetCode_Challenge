@@ -101,6 +101,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0001-two-sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,10 +169,12 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0191-number-of-1-bits/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +203,16 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0078-subsets](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0090-subsets-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
