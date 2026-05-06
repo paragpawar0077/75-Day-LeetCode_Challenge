@@ -102,6 +102,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0217-contains-duplicate](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
+| [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
