@@ -4,13 +4,13 @@ class Solution {
         for(int i:nums){
             set.add(i);
         }
-        int length;
+        
         int longest=0;
-        int current;
+        
         for(int num:set){
             if(!set.contains(num-1)){
-                length=1;
-                current=num;
+               int length=1;
+               int current=num;
             
             while(set.contains(current+1)){
                 current++;
