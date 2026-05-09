@@ -103,6 +103,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,4 +220,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
