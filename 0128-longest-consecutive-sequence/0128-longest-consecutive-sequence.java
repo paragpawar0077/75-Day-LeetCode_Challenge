@@ -7,7 +7,7 @@ class Solution {
         
         int longest=0;
         int length;
-        int  current;
+        int current;
         for(int num:set){
             if(!set.contains(num-1)){
                length=1;
