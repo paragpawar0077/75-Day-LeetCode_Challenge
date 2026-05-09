@@ -6,8 +6,8 @@ class Solution {
         }
         
         int longest=0;
-        int length;
-        int current;
+        int length,current;
+        
         for(int num:set){
             if(!set.contains(num-1)){
                length=1;
