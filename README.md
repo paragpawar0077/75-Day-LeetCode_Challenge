@@ -106,6 +106,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
 | [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
+| [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
 | [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
+| [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +158,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0704-binary-search/) | Easy |
 | [0278-first-bad-version](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0278-first-bad-version/) | Easy |
+| [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
