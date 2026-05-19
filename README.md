@@ -105,6 +105,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
+| [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0344-reverse-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0088-merge-sorted-array/) | Easy |
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
+| [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
