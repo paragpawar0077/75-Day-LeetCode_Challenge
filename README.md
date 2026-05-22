@@ -69,6 +69,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
 | [0344-reverse-string](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0344-reverse-string/) | Easy |
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
 | [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,4 +239,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
