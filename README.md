@@ -107,6 +107,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
 | [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
 | [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0704-binary-search](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0704-binary-search/) | Easy |
 | [0278-first-bad-version](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0278-first-bad-version/) | Easy |
 | [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
