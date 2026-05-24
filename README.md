@@ -210,6 +210,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0326-power-of-three](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0206-reverse-linked-list](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +244,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
