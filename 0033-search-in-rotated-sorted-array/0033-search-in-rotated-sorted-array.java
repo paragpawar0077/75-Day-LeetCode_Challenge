@@ -1,7 +1,6 @@
 class Solution {
     public int search(int[] nums, int target) {
-            
-        int pivot = findPivot(nums);
+         int pivot = findpivot(nums);
 
       
         if (pivot == -1) {
@@ -21,7 +20,7 @@ class Solution {
         return binarySearch(nums, target, pivot + 1, nums.length - 1);
     }
 
-    int binarySearch(int[] arr, int target, int start, int end) {
+        int binarySearch(int[] arr, int target, int start, int end) {
         while(start <= end) {
 
             int mid = start + (end - start) / 2;
@@ -36,22 +35,17 @@ class Solution {
             }
         }
         return -1;
+    
     }
-
-   
-    int findPivot(int[] arr) {
+    public int findpivot(int [] arr){
         int start = 0;
-        int end = arr.length - 1;
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-           //not mid+1 --> if (mid < end && arr[mid] < arr[mid + 1]) {
-             //   return mid+1; 
-             // bcoz if mid+1>mid that means it is normalincreasing array nothing speacial 
-             // where as pivot is a elemnt after which elemnts goes in dec reasing value
-            if (mid < end && arr[mid] > arr[mid + 1]) {
+        int end = arr.length-1;
+        while(start<end){
+            int mid =  start+(end-start)/2;
+            if(mid<end && arr[mid]>arr[mid+1]){
                 return mid;
             }
-            if (mid > start && arr[mid] < arr[mid - 1]) {
+            else if(start<mid && arr[mid-1]>arr[mid]){
                 return mid-1;
             }
             if (arr[mid] <= arr[start]) {
@@ -62,5 +56,4 @@ class Solution {
         }
         return -1;
     }
-    
 }
