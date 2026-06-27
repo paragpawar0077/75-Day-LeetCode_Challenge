@@ -79,6 +79,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0258-add-digits](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0258-add-digits/) | Easy |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0067-add-binary](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0067-add-binary/) | Easy |
+| [0054-spiral-matrix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0054-spiral-matrix/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [0054-spiral-matrix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0054-spiral-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0036-valid-sudoku](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0054-spiral-matrix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
