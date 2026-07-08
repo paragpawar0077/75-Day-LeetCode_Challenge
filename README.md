@@ -267,4 +267,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
