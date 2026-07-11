@@ -274,4 +274,5 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0175-combine-two-tables](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0175-combine-two-tables/) | Easy |
 | [0183-customers-who-never-order](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0183-customers-who-never-order/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0197-rising-temperature](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
