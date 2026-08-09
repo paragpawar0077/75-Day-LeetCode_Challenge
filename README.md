@@ -114,6 +114,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0033-search-in-rotated-sorted-array](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [0054-spiral-matrix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0054-spiral-matrix/) | Medium |
+| [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0049-group-anagrams](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
+| [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
+| [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +278,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0183-customers-who-never-order](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0183-customers-who-never-order/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0197-rising-temperature](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0197-rising-temperature/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
