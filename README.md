@@ -115,6 +115,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [0054-spiral-matrix](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
+| [0455-assign-cookies](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0455-assign-cookies/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +162,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
 | [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
 | [2540-minimum-common-value](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/2540-minimum-common-value/) | Easy |
+| [0455-assign-cookies](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0347-top-k-frequent-elements](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0015-3sum](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0015-3sum/) | Medium |
 | [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
+| [0455-assign-cookies](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0455-assign-cookies/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +209,7 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | [0680-valid-palindrome-ii](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0011-container-with-most-water](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
+| [0455-assign-cookies](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0455-assign-cookies/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +286,8 @@ Problems are solved on **LeetCode** and automatically pushed here using **LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0561-array-partition/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/paragpawar0077/75-Day-LeetCode_Challenge/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
